@@ -1,6 +1,6 @@
 Challenge-6
 
-Screen Shot 2021-05-25 at 6.00.11 PM![image](https://user-images.githubusercontent.com/45837879/119587246-1ffd6e00-bd83-11eb-940b-e4c127750ec0.png)
+[image](https://user-images.githubusercontent.com/45837879/119587246-1ffd6e00-bd83-11eb-940b-e4c127750ec0.png)
 
 Purpose: 
 

@@ -1,6 +1,6 @@
 Challenge-6
 
-[image](https://user-images.githubusercontent.com/45837879/119587246-1ffd6e00-bd83-11eb-940b-e4c127750ec0.png)
+![image](https://user-images.githubusercontent.com/45837879/119587298-3dcad300-bd83-11eb-892e-466ce30a0294.png)
 
 Purpose: 
 
